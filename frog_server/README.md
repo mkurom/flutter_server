@@ -15,7 +15,7 @@ An example application built with dart_frog
 
 # memo
 
-dart_frogのバージョンが0.19の時の対応
+### dart_frogのバージョンが0.19の時の対応
 
 ```
 dart_frog create [project_name]
@@ -35,3 +35,9 @@ dev_dependencies:
   test: ^1.19.2
   # very_good_analysis: ^3.1.0
 ```
+
+
+### dart_frogのバージョンが0.3.1
+
+dart_frog_cli 0.3.1を使用するためには、dart2.18.0以上が必要
+cliのバージョンがアップできれば、dart_frog0.3.1も使用可能になる
